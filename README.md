@@ -1,13 +1,4 @@
-# Hackathons
-A unified repo/archive for all Hackathon projects. 
+# HackTheBurgh 2020
 
-## Ideas
+Here's what I wrote in code for the HackTheBurgh hackathon in 2020. As you can see I was not very active and just participated in the Optiver trading challenge.
 
-### Educational
-
-- Language Trainer
-
-### Games
-
-- Botting game (racing, trading, ...)
-- Poker client (including apparent win chances, actual win chances, ...)
